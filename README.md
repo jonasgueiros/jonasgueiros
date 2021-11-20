@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on Front-End and Back-End
 - 🌱 I’m always improving C#, Python, JS
-- 📫 How to reach me: @jonagueiro
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I enjoy study about History and Mythology
 
