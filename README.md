@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Front-End and Back-End
-- 🌱 I’m always improving C#, Python, JS
+- 🔭 I’m currently working with Front-End and Back-End
+- 🌱 Always improving C#, Python, JS
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I enjoy study about History and Mythology
 
