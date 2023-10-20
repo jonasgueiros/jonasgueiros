@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working with Front-End and Back-End
-- 🌱 Always improving C#, Python, JS
+- 🌱 Always improving C#, Python, HTML and JS
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I enjoy study about History and Mythology
 
